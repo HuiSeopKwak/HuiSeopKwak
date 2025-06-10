@@ -70,3 +70,7 @@
 ## 🧠 Algorithm
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uh1528)](https://solved.ac/uh1528)
+
+---
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHuiSeopKwak&label=Visitors%20&icon=github&color=%231aa179)
